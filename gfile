@@ -1,0 +1,4 @@
+set xrange 0 100
+set yrange 0 100
+loadcolormap colors.txt
+cmovie
